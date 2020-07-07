@@ -8,14 +8,14 @@ function openNav() {
     document.getElementById("main").style.marginLeft= "0";
   }
 
-  let hok3=document.querySelector('gmg');
-  let hok4=document.querySelector('text');
-  let hok5=document.querySelector('king1');
+  // let hok3=document.querySelector('gmg');
+  // let hok4=document.querySelector('text');
+  // let hok5=document.querySelector('king1');
 
-//   window.onload= function(){
+//   window.document= function nn(){
 //     hok3.focus()
 
-//   }
+// }
 // function bh(){
 
 
@@ -33,11 +33,12 @@ function openNav() {
 //   }
 
 let tyi=[];
-
+let ook= [];
 function uu(){
 
  let ook=   document.getElementsByClassName("ipk").Value
  tyi.push( ook);
-  let hjl= document.getElementById("ui").innerHTML += "<li>"  +ook+ "</li>";
+  let hjl= document.getElementById("ui").innerHTML += "<li>"  +ook+ "</li>" ;
 
 }
+j

@@ -154,7 +154,7 @@ background-color:  #2e86de;
  background-color: white;
 
       }
-      #ul{
+      li{
         color: white;
         font-size: 50px;
         padding: 15px;
@@ -162,7 +162,7 @@ background-color:  #2e86de;
         /* text-align: center; */
         background-color:  #2e86de;
     
-
+      list-style-type: none;
       }
       .king6{
         color: white;
